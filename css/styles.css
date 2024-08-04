@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #1e2326;
+    background: #021c2b;
     position: fixed;
     width: 100%;
     top: 0;
@@ -57,7 +57,7 @@ html{
 }
 /* SECCION I N I C I O */
 .inicio{
-    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
+    background: linear-gradient(to top, rgba(3, 20, 30, 0.8), rgba(30,35,38,1)),
     url(/img/fondo.jpg);
     background-size: cover;
     height: 100vh;
@@ -67,7 +67,7 @@ html{
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #1e2326;
+    background-color: #021c2b;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -82,32 +82,18 @@ html{
     border-radius: 100%;
 }
 .inicio .contenido-banner h1{
-    margin-top: 40px;
+    margin: 20px 0;
     font-size: 42px;
     font-family: 'Righteous';
 }
 .inicio .contenido-banner h2{
-    font-size: 15px;
+    font-size: 17px;
     font-weight: normal;
+    padding-bottom: 10px;
 }
-.inicio .contenido-banner .redes a{
-    color: #fff;
-    display: inline-block;
-    text-decoration: none;
-    border: 1px solid #fff;
-    border-radius: 100%;
-    width: 42px;
-    height: 42px;
-    line-height: 42px;
-    margin: 40px 5px;
-    font-size: 20px;
-    transition: .3s;
-}
-.inicio .contenido-banner .redes a:hover{
-    background-color:#1c9ab6;
-}
+
 .sobremi{
-    background-color: #1e2326;
+    background-color: #021c2b;
     color: #fff;
     padding: 50px 20px;
 }
@@ -167,7 +153,7 @@ html{
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
     height: 100px;
-    background-color: #252A2E;
+    background-color: #183750;
     border-radius: 10px;
     margin: 0 15px 15px 0;
     display: flex;
@@ -210,7 +196,7 @@ html{
 }
 /* SECCION S K I L L S */
 .skills{
-    background-color: #252A2E;
+    background-color: #071622;
     color: #fff;
     padding: 50px 20px;
 }
@@ -245,7 +231,7 @@ html{
 .skills .skill .barra-skill{
     height: 8px;
     width: 80%;
-    background-color: #131517;
+    background-color: #596169;
     position: relative;
     margin-bottom: 30px;
 }
@@ -360,7 +346,7 @@ html{
 }
 /* SECCION CURRICULUM */
 .curriculum{
-    background-color: #1e2326;
+    background-color: #021c2b;
     color: #fff;
     padding: 50px 20px;
 }
@@ -523,9 +509,9 @@ html{
 }
 
 footer{
-    background-color: #252A2E;
+    background-color: #021c2b;
     color: #fff;
-    padding: 50px 0 30px 0;
+    padding: 40px 0 10px 0;
     text-align: center;
     position: relative;
     width: 100%;
