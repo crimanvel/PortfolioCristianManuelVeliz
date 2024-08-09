@@ -96,7 +96,7 @@ html{
 .sobremi{
     background-color: #021c2b;
     color: #fff;
-    padding: 50px 20px;
+    padding: 30px 20px;
 }
 .sobremi .contenido-seccion{
     max-width: 1100px;
@@ -129,6 +129,7 @@ html{
     font-size: 28px;
     font-family: 'Righteous';
     margin-bottom: 25px;
+    margin-top: 10px;
 }
 .sobremi .fila .col ul{
     list-style: none;
@@ -227,15 +228,15 @@ html{
     margin-bottom: 25px;
 }
 .curriculum .fila .izquierda{
-    border-right: 2px solid #252A2E;
+    border-right: 2px solid #021c2b;
 }
 .curriculum .fila .derecha{
-    border-left: 2px solid #252A2E;
+    border-left: 2px solid #021c2b;
 }
 .curriculum .fila .item{
     padding: 25px;
     margin-bottom: 30px;
-    background-color: #252A2E;
+    background-color: #021c2b;
     position: relative;
 }
 .curriculum .fila .item h4{
@@ -304,7 +305,7 @@ html{
 }
 /* SECCION PORTFOLIO */
 .portfolio{
-    background-color: #252A2E;
+    background-color: #021c2b;
     color: #fff;
     padding: 50px 20px;
 }
