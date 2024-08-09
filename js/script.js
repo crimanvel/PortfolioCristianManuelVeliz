@@ -15,6 +15,8 @@ function seleccionar(){
     document.getElementById("nav").classList = "";
     menuVisible = false;
 }
+/* */
+
 //Funcion que aplica las animaciones de las habilidades
 function efectoHabilidades(){
     var skills = document.getElementById("skills");
