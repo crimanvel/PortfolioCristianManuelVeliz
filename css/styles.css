@@ -30,7 +30,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #1c9ab6;
+    color: #f7c93c;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -46,10 +46,10 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1c9ab6;
+    color: #f7c93c;
 }
 .nav-responsive{
-    background-color:#1c9ab6;
+    background-color:#f7c93c;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -76,7 +76,7 @@ html{
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 10px solid #1c9ab6;
+    border: 10px solid #f7c93c;
     display: block;
     width: 80%;
     margin: auto;
@@ -143,7 +143,7 @@ html{
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -164,7 +164,7 @@ html{
     justify-content: center;
     transition: .3s;
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
-    background-color:#1c9ab6;
+    background-color:#f7c93c;
 }
 .sobremi .fila .col .contenedor-intereses .interes i{
     font-size: 30px;
@@ -258,16 +258,16 @@ html{
     line-height: 24px;
 }
 .curriculum .fila .izq{
-    border-right: 2px solid #1c9ab6;
+    border-right: 2px solid #f7c93c;
     margin-right: 20px;
 }
 .curriculum .fila .der{
-    border-left: 2px solid #1c9ab6;
+    border-left: 2px solid #f7c93c;
     margin-left: 20px;
 }
 .curriculum .fila .item .conectori{
     height: 2px;
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     width: 47px;
     position: absolute;
     top: 50%;
@@ -279,14 +279,14 @@ html{
     height: 10px;
     width: 10px;
     border-radius: 50%;
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     float: right;
     position: relative;
     bottom: 4px;
 }
 .curriculum .fila .item .conectord{
     height: 2px;
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     width: 47px;
     position: absolute;
     top: 50%;
@@ -298,7 +298,7 @@ html{
     height: 10px;
     width: 10px;
     border-radius: 50%;
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     float: left;
     position: relative;
     bottom: 4px;
@@ -334,6 +334,10 @@ html{
 .portfolio .galeria .proyecto img{
     width: 100%;
     display: block;
+}
+.a{
+    text-decoration: none;
+    color:white;
 }
 .portfolio .galeria .proyecto .overlay{
     position: absolute;
@@ -389,7 +393,7 @@ footer .arriba{
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #1c9ab6;
+    background-color: #f7c93c;
     color: #fff;
     position: absolute;
     left: 50%;
@@ -412,14 +416,14 @@ footer .arriba{
         position: absolute;
         right: 0;
         top: 75px;
-        background-color: #252A2E;
+        background-color:#021c2b ;
         width: 180px;
     }
     nav.responsive ul{
         display: block !important;
     }
     nav.responsive ul li{
-        border-bottom: 1px solid #fff;
+        border-bottom: 1px solid #02000a;
         padding: 10px 0;
     }
 }
